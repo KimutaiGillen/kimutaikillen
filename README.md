@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kimutaikillen
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning nestjs
-- 💞️ I’m looking to collaborate on back and frint end projects
+- 💞️ I’m looking to collaborate on back and front end projects
 - 📫 Reach me on 0791286449
 
 <!---
