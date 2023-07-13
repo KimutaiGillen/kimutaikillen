@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kimutaikillen
+- 👋 Hi, I’m @KimutaiSharkieGillen
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning nestjs && flutter
 - 💞️ I’m looking to collaborate on back and front end projects
